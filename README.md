@@ -1,2 +1,2 @@
-# Proyecto_final
-Clase de Android Studio
+# Proyecto_prueba
+Supabase
